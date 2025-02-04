@@ -11,7 +11,7 @@ GhostRec is a simple and efficient voice recording app that allows users to reco
 ## Installation 🛠️  
 1. Clone the repository:  
    ```sh  
-   git clone https://github.com/yourusername/ghostrec.git  
+   https://github.com/abhixdd/GhostRec.git
    cd ghostrec  
    ```  
 2. Install dependencies:  
