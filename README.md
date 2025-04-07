@@ -9,7 +9,7 @@ GhostRec is a simple and efficient voice recording app that allows users to reco
 - 🎨 **Minimal UI** – Clean and simple user interface for easy navigation.  
 
 ## Installation 🛠️  
-1. Clone the repository:  
+1. Clone the repository:    
    ```sh  
    https://github.com/abhixdd/GhostRec.git
    cd ghostrec  
